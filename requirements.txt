@@ -1,0 +1,10 @@
+-f /usr/share/pip-wheels
+asgiref==3.3.1
+beautifulsoup4==4.9.3
+Django==3.1.4
+django-bootstrap-static
+django-tailwind==1.1.0
+mysqlclient==2.0.2
+pytz==2020.5
+soupsieve==2.1
+sqlparse==0.4.1
